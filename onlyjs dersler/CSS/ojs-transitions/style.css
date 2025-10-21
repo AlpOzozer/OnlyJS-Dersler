@@ -1,0 +1,15 @@
+.box {
+    width: 400px;
+    height: 400px;
+    background-color: lightskyblue;
+    /*
+    transition-duration: .5s;
+    transition-property: background-color;
+    */
+    transition: 5s background-color 0.2 cubic-bezier(0.34, 0.82, 0.165, 1)
+}
+
+.box:hover {
+    background-color: lightcoral;
+}
+

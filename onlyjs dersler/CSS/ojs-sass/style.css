@@ -1,0 +1,56 @@
+header .btn {
+  display: inline-block;
+  background-color: green;
+  padding: 10px;
+  border: 1px solid #000;
+  border-radius: 8px;
+}
+header .btn:hover {
+  background-color: rgb(176, 255, 176);
+}
+
+a {
+  color: #CDB4DB;
+}
+
+button {
+  background-color: #CDB4DB;
+}
+
+p {
+  color: #CDB4DB;
+}
+
+.box-1 {
+  width: 150px;
+  height: 150px;
+  background-color: #A2D2FF;
+}
+
+.box-2 {
+  width: 150px;
+  height: 150px;
+  background-color: #FFAFCC;
+}
+
+.alert, .alert-primary, .alert-warning, .alert-success {
+  font-size: 1.5rem;
+  border: 3px solid #000;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.alert-success {
+  background-color: #d4edda;
+  color: #155724;
+}
+
+.alert-warning {
+  background-color: #fff3cd;
+  color: #856404;
+}
+
+.alert-primary {
+  background-color: #A2D2FF;
+  color: #FFAFCC;
+}/*# sourceMappingURL=style.css.map */

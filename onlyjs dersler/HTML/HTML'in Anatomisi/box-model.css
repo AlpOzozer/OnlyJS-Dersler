@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+}
+
+h1 {
+    border: 2px solid red;
+}
+
+p {
+    
+    width: 200px;
+    border: 10px solid red;
+    padding: 5em;
+    padding-top: 10px;
+    padding-left: 60px;
+
+    margin: 30px 100px 30px 20px;
+    border-right: 5px dashed blue;
+
+    border-radius: 10%;
+ }
+
