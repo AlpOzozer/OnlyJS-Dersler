@@ -1,0 +1,272 @@
+[
+    {
+        "_id": "68f60c0e69202877f4a815ec",
+        "index": 0,
+        "guid": "41097e6a-bae4-4971-8392-ce2686fea7e9",
+        "isActive": false,
+        "balance": "$2,581.85",
+        "picture": "http://placehold.it/32x32",
+        "age": 37,
+        "eyeColor": "blue",
+        "name": "Lynda French",
+        "gender": "female",
+        "company": "ZILPHUR",
+        "email": "lyndafrench@zilphur.com",
+        "phone": "+1 (938) 583-2064",
+        "address": "675 Baltic Street, Canby, Illinois, 7177",
+        "about": "Adipisicing eiusmod qui cupidatat Lorem laborum est officia nisi enim ea veniam. Aliqua ullamco duis do est culpa dolore. Adipisicing velit occaecat et adipisicing magna esse qui duis consequat nulla fugiat incididunt. Adipisicing culpa incididunt aliquip laborum velit velit minim qui ipsum in ipsum dolor ad.\r\n",
+        "registered": "2021-03-10T07:28:40 -03:00",
+        "latitude": 66.757034,
+        "longitude": -76.619595,
+        "tags": [
+            "do",
+            "amet",
+            "consequat",
+            "mollit",
+            "quis",
+            "est",
+            "aliquip"
+        ],
+        "friends": [
+            {
+                "id": 0,
+                "name": "Colette Chaney"
+            },
+            {
+                "id": 1,
+                "name": "Dolly Acevedo"
+            },
+            {
+                "id": 2,
+                "name": "Lucas West"
+            }
+        ],
+        "greeting": "Hello, Lynda French! You have 10 unread messages.",
+        "favoriteFruit": "banana"
+    },
+    {
+        "_id": "68f60c0ecdca5f9d24a52e3e",
+        "index": 1,
+        "guid": "276136f6-d6e3-4b05-bcbb-f15d6cfed62a",
+        "isActive": false,
+        "balance": "$3,537.03",
+        "picture": "http://placehold.it/32x32",
+        "age": 28,
+        "eyeColor": "brown",
+        "name": "Leslie Berg",
+        "gender": "female",
+        "company": "FILODYNE",
+        "email": "leslieberg@filodyne.com",
+        "phone": "+1 (815) 550-3505",
+        "address": "967 Clara Street, Homeland, Oklahoma, 4271",
+        "about": "In id exercitation qui cupidatat quis proident commodo aliqua sunt nisi exercitation nulla anim. Ipsum voluptate consectetur adipisicing incididunt tempor Lorem. Amet minim in aute proident nisi ipsum adipisicing dolor. Anim nulla laboris pariatur ut ex culpa sint sunt pariatur consectetur minim. Laborum nisi cillum nostrud aliqua tempor culpa aliqua. Minim commodo ipsum et ullamco deserunt veniam ad magna laboris id amet esse excepteur mollit. Ad ipsum sit consectetur deserunt dolore ipsum fugiat cupidatat.\r\n",
+        "registered": "2023-04-06T11:26:47 -03:00",
+        "latitude": 45.078497,
+        "longitude": 61.526254,
+        "tags": [
+            "culpa",
+            "voluptate",
+            "id",
+            "dolor",
+            "elit",
+            "veniam",
+            "cupidatat"
+        ],
+        "friends": [
+            {
+                "id": 0,
+                "name": "Medina Wright"
+            },
+            {
+                "id": 1,
+                "name": "Paige Mckinney"
+            },
+            {
+                "id": 2,
+                "name": "Fischer Wheeler"
+            }
+        ],
+        "greeting": "Hello, Leslie Berg! You have 2 unread messages.",
+        "favoriteFruit": "banana"
+    },
+    {
+        "_id": "68f60c0e175a81fb1e845d35",
+        "index": 2,
+        "guid": "a9f0cb0a-5c42-4434-a9b5-497ac14b1be0",
+        "isActive": false,
+        "balance": "$1,139.83",
+        "picture": "http://placehold.it/32x32",
+        "age": 28,
+        "eyeColor": "blue",
+        "name": "Mcfadden Whitley",
+        "gender": "male",
+        "company": "STREZZO",
+        "email": "mcfaddenwhitley@strezzo.com",
+        "phone": "+1 (875) 571-2253",
+        "address": "850 Bond Street, Babb, Colorado, 8789",
+        "about": "Reprehenderit nisi laborum laboris cupidatat. Ad quis dolor dolore dolor ut. Eiusmod culpa esse esse aliqua. Lorem qui veniam irure mollit do exercitation do ex ea consequat consequat deserunt aliqua excepteur. Amet eu Lorem pariatur sit adipisicing sint consequat pariatur do.\r\n",
+        "registered": "2023-09-23T09:46:42 -03:00",
+        "latitude": 42.733412,
+        "longitude": -73.385104,
+        "tags": [
+            "commodo",
+            "non",
+            "id",
+            "anim",
+            "duis",
+            "dolore",
+            "elit"
+        ],
+        "friends": [
+            {
+                "id": 0,
+                "name": "Thelma Carter"
+            },
+            {
+                "id": 1,
+                "name": "Bernadette Kelly"
+            },
+            {
+                "id": 2,
+                "name": "Sherman Bolton"
+            }
+        ],
+        "greeting": "Hello, Mcfadden Whitley! You have 3 unread messages.",
+        "favoriteFruit": "banana"
+    },
+    {
+        "_id": "68f60c0e5329281f3ac45a87",
+        "index": 3,
+        "guid": "5f72dda8-f6fd-496d-85e5-6d79a41ed3b2",
+        "isActive": true,
+        "balance": "$3,431.48",
+        "picture": "http://placehold.it/32x32",
+        "age": 25,
+        "eyeColor": "blue",
+        "name": "Leona Barton",
+        "gender": "female",
+        "company": "BIFLEX",
+        "email": "leonabarton@biflex.com",
+        "phone": "+1 (810) 434-3134",
+        "address": "266 Trucklemans Lane, Churchill, Oregon, 8174",
+        "about": "Elit reprehenderit occaecat duis non eu mollit cupidatat minim amet sint. Nisi incididunt exercitation magna sunt aliquip laborum reprehenderit incididunt voluptate. Pariatur nostrud laborum aliquip culpa exercitation culpa id sunt ex fugiat mollit.\r\n",
+        "registered": "2017-09-15T12:02:11 -03:00",
+        "latitude": -31.868514,
+        "longitude": -73.772924,
+        "tags": [
+            "sunt",
+            "nulla",
+            "cupidatat",
+            "commodo",
+            "Lorem",
+            "nulla",
+            "laboris"
+        ],
+        "friends": [
+            {
+                "id": 0,
+                "name": "Lang Osborne"
+            },
+            {
+                "id": 1,
+                "name": "Jenna Carr"
+            },
+            {
+                "id": 2,
+                "name": "Patty Spencer"
+            }
+        ],
+        "greeting": "Hello, Leona Barton! You have 1 unread messages.",
+        "favoriteFruit": "banana"
+    },
+    {
+        "_id": "68f60c0eba3aeee39c1c1638",
+        "index": 4,
+        "guid": "0125c3a7-1af1-4dea-be52-60d2bd9625e8",
+        "isActive": true,
+        "balance": "$1,986.40",
+        "picture": "http://placehold.it/32x32",
+        "age": 39,
+        "eyeColor": "brown",
+        "name": "Elaine Bond",
+        "gender": "female",
+        "company": "MEMORA",
+        "email": "elainebond@memora.com",
+        "phone": "+1 (897) 560-3342",
+        "address": "843 Arlington Avenue, Kipp, Louisiana, 3517",
+        "about": "Reprehenderit excepteur proident laboris laboris elit. Minim occaecat quis cillum cillum sint qui ad aliqua ullamco duis mollit et. Ad consequat aliquip reprehenderit irure eu. Consequat aliqua quis ea voluptate magna proident exercitation labore.\r\n",
+        "registered": "2019-12-19T09:35:30 -03:00",
+        "latitude": -51.32656,
+        "longitude": -127.423659,
+        "tags": [
+            "fugiat",
+            "minim",
+            "duis",
+            "ad",
+            "consectetur",
+            "labore",
+            "minim"
+        ],
+        "friends": [
+            {
+                "id": 0,
+                "name": "Kimberly Roberts"
+            },
+            {
+                "id": 1,
+                "name": "Donna Duran"
+            },
+            {
+                "id": 2,
+                "name": "Ila Garner"
+            }
+        ],
+        "greeting": "Hello, Elaine Bond! You have 4 unread messages.",
+        "favoriteFruit": "banana"
+    },
+    {
+        "_id": "68f60c0e973e8d01f1e184f5",
+        "index": 5,
+        "guid": "0a5fe285-4e9e-4f0a-af05-806727fe2dcb",
+        "isActive": false,
+        "balance": "$1,712.92",
+        "picture": "http://placehold.it/32x32",
+        "age": 33,
+        "eyeColor": "blue",
+        "name": "John Clarke",
+        "gender": "female",
+        "company": "EXTRO",
+        "email": "johnclarke@extro.com",
+        "phone": "+1 (839) 512-2580",
+        "address": "635 Martense Street, Greer, District Of Columbia, 2678",
+        "about": "Officia consectetur duis fugiat quis Lorem fugiat in cillum Lorem qui incididunt in aliqua anim. Sit reprehenderit magna nisi quis voluptate. Fugiat eiusmod et sunt laboris non aliqua eiusmod quis commodo incididunt commodo et excepteur consectetur. Cillum anim elit ipsum quis laborum reprehenderit ea qui esse adipisicing sunt ex ad. Elit sit mollit consequat mollit occaecat in. Commodo amet et consequat eu ipsum excepteur culpa dolore id proident duis anim ex aute. Mollit exercitation magna velit cupidatat adipisicing laborum id veniam adipisicing.\r\n",
+        "registered": "2015-12-08T12:45:13 -02:00",
+        "latitude": -71.172477,
+        "longitude": -67.208675,
+        "tags": [
+            "officia",
+            "cupidatat",
+            "eiusmod",
+            "adipisicing",
+            "Lorem",
+            "sint",
+            "veniam"
+        ],
+        "friends": [
+            {
+                "id": 0,
+                "name": "Mayo Kelley"
+            },
+            {
+                "id": 1,
+                "name": "Marsh Simpson"
+            },
+            {
+                "id": 2,
+                "name": "Figueroa Dejesus"
+            }
+        ],
+        "greeting": "Hello, John Clarke! You have 10 unread messages.",
+        "favoriteFruit": "apple"
+    }
+]

@@ -1,0 +1,72 @@
+$color-primary: #A2D2FF;
+$color-secondary: #FFAFCC;
+
+
+header {
+.btn {
+    display: inline-block;
+    background-color: green;
+    padding: 10px;
+    border: 1px solid #000;
+    border-radius: 8px;
+
+    &:hover {
+         background-color: rgb(176, 255, 176);
+    }
+}
+}
+
+a {
+    color: #CDB4DB;
+}
+
+button {
+    background-color: #CDB4DB;
+}
+
+p {
+    color: #CDB4DB;
+}
+
+@mixin square {
+    width: 150px;
+    height: 150px;
+}
+
+.box-1 {
+    @include square;
+    background-color: $color-primary;
+}
+
+.box-2 {
+    @include square;
+    background-color: $color-secondary;
+}
+
+.alert {
+    font-size: 1.5rem;
+    border: 3px solid #000;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.alert-success {
+    @extend .alert;
+    background-color: #d4edda;
+    color: #155724;
+}
+
+.alert-warning {
+    @extend .alert;
+    background-color: #fff3cd;
+    color: #856404;
+}
+
+.alert-primary {
+    @extend .alert;
+    background-color: $color-primary;
+    color: $color-secondary;
+}
+
+
+

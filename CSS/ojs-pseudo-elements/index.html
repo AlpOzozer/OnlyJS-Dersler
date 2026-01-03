@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        p::first-letter {
+            font-size: 2em;
+            color: blue;
+        }
+        
+        p::first-line {
+            color: green;
+            font-size: 30px;
+        }
+        
+        #technologies li::before {
+           content: "a";
+           display: inline-block; 
+           width: 15px;
+           height: 15px;
+           background-color: red;
+        }
+
+        #technologies li::after {
+           content: "a";
+           display: inline-block; 
+           width: 15px;
+           height: 15px;
+           background-color: blue;
+        }
+
+        #technologies li::marker {
+            color: green;
+            font-size: 2rem;
+        }
+
+        #js::before {
+            content: "r"
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Pseudo Elemetleri</h1>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, natus. Ipsum praesentium inventore temporibus 
+        blanditiis? Nulla pariatur eius sapiente at quis minima dolor possimus, quod dignissimos iusto officia
+         ut esse earum, cumque odit necessitatibus dolorum. Quasi, quibusdam? Magnam, totam neque!
+    </p>
+    <br>
+    <ul id="technologies">
+        <li>HTML</li>
+        <li>CSS</li>
+        <li id="js">JS</li>
+    </ul>
+</body>
+</html>

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Samsung Ürünleri - Premium Teknoloji Deneyimi</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <nav class="nav">
+            <div class="nav-container">
+                <div class="logo">
+                    <h1>Samsung</h1>
+                </div>
+                <div class="nav-menu">
+                    <a href="#telefonlar" class="nav-link">Telefonlar</a>
+                    <a href="#tabletler" class="nav-link">Tabletler</a>
+                    <a href="#buzdolaplari" class="nav-link">Buzdolapları</a>
+                </div>
+                <div class="hamburger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="hero-container">
+                <h2>Geleceğin Teknolojisi</h2>
+                <p>Samsung'un en yeni ürünlerini keşfedin</p>
+                <button class="cta-button">Ürünleri İncele</button>
+            </div>
+        </section>
+
+        <section class="filters">
+            <div class="filter-container">
+                <button class="filter-btn active" data-category="all">Tümü</button>
+                <button class="filter-btn" data-category="Telefon">Telefonlar</button>
+                <button class="filter-btn" data-category="Tablet">Tabletler</button>
+                <button class="filter-btn" data-category="Buzdolabı">Buzdolapları</button>
+            </div>
+        </section>
+
+        <section class="products">
+            <div class="products-container">
+                <div id="products-grid" class="products-grid">
+                    <!-- Ürünler JavaScript ile yüklenecek -->
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="footer-container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>Samsung</h3>
+                    <p>Geleceğin teknolojisini bugün yaşayın</p>
+                </div>
+                <div class="footer-section">
+                    <h4>İletişim</h4>
+                    <p>Email: info@samsung.com</p>
+                    <p>Tel: 0850 726 7864</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Kategoriler</h4>
+                    <ul>
+                        <li><a href="#telefonlar">Telefonlar</a></li>
+                        <li><a href="#tabletler">Tabletler</a></li>
+                        <li><a href="#buzdolaplari">Buzdolapları</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 Samsung. Tüm hakları saklıdır.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

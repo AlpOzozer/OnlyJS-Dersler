@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OnlyJS - Callbacks</title>
+</head>
+<body>
+    <h1>Callback'ler</h1>
+    <p>Hesaplama işleminin sonucu: <span id="calculateResult"></span></p>
+    <button onclick="calculate(printResultToElement)">Hesaplama Yap (sonuç yazısnının yanına ekle)</button>
+    <button onclick="calculate(triggerAlertFromResult)">Hesaplama Yap (alert olarak bas)</button>
+    <button onclick="calculate(logResultToConsole)">Hesaplama Yap (konsola bas)</button>
+    <script src="script.js"></script>
+</body>
+</html>
