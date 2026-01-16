@@ -1,0 +1,7 @@
+.vite-logo {
+  composes: logo from "../logo.module.css";
+}
+
+.vite-logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}

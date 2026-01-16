@@ -1,0 +1,7 @@
+.react-logo {
+  composes: logo from "../logo.module.css";
+}
+.react-logo:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
