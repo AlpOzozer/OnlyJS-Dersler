@@ -1,0 +1,9 @@
+@use "./sass/variables" as v;
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: v.$color-react;
+}

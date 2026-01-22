@@ -1,0 +1,7 @@
+@use "../../../sass/variables" as v;
+@use "../logo" as l;
+
+.logo {
+  @include l.logo(v.$color-vite)
+}
+

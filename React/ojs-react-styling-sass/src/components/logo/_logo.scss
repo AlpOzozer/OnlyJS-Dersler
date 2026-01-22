@@ -1,12 +1,10 @@
-.react-logo {
+@mixin logo($color) {
   height: 6em;
   padding: 1.5em;
   will-change: filter;
   transition: filter 300ms;
+
+  &:hover {
+  filter: drop-shadow(0 0 2em $color);
 }
-.react-logo:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
 }
-
-
-
