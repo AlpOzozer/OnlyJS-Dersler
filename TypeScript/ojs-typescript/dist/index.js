@@ -1,13 +1,27 @@
-let firstName = "Uğur";
-let favoriteNumber = 6;
-let isStudent = false;
-firstName = "Alp";
-favoriteNumber = 10;
-isStudent = true;
-const favoriteNumberMessage = "Favori numara: " + favoriteNumber;
-const square = (num) => {
-    return num * num;
+const person1 = {
+    name: "Osman",
+    age: 30,
+    eat: (food) => {
+        console.log("Kişi " + food + " yedi");
+    },
+    walk: (km) => {
+        console.log("Kişi" + km + "km yol yürüdü");
+        return km;
+    }
 };
-console.log(square(8));
+const person2 = {
+    name: "Ali",
+    age: 40,
+    eat: (food) => {
+        console.log("Ali " + food + " isimli yemeği yedi");
+    },
+    walk: (km) => {
+        console.log("Kişi" + km + "km yol yürüdü bugün");
+        return km;
+    }
+};
+function greetHuman(human) {
+    console.log("merhaba " + human.name);
+}
 export {};
 //# sourceMappingURL=index.js.map
