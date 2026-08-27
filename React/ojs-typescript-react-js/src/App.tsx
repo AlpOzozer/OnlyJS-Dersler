@@ -80,7 +80,6 @@ function App({ pageTitle, content }: AppProps) {
       <div>Soyisim {user?.lastName}</div>
       <div>Yaş: {user?.age}</div>
       <div>Cinsiyet: {user?.gender}</div>
-      
     </>
   )
 }
